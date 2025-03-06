@@ -48,6 +48,14 @@
             text-align: center;
         }
 
+        .apk-item img {
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+
         .apk-item a {
             color: #00bfff;
             text-decoration: none;
@@ -84,20 +92,69 @@
         <h2>Escolha o APK para Download</h2>
 
         <div class="apk-list">
-            <!-- Exemplo de item de APK -->
+            <!-- Exemplo de 9 APKs com imagens -->
             <div class="apk-item">
-                <h3>APK do Jogo A</h3>
-                <p>Baixe o APK para instalar o Jogo A no seu dispositivo Android.</p>
-                <a href="https://linkdoapk.com/arquivo.apk" target="_blank">Baixar APK</a>
+                <img src="https://www.downloadsource.net/wp-content/uploads/2018/05/subway-surfers-apk.jpg" alt="Subway Surfers">
+                <h3>APK do Jogo A - Subway Surfers</h3>
+                <p>Baixe o APK para instalar o Subway Surfers no seu dispositivo Android.</p>
+                <a href="https://linkdoapk.com/arquivo1.apk" target="_blank">Baixar APK</a>
             </div>
 
             <div class="apk-item">
+                <img src="https://via.placeholder.com/300" alt="Imagem do APK">
                 <h3>APK do Aplicativo B</h3>
                 <p>Baixe o APK para instalar o Aplicativo B no seu dispositivo Android.</p>
-                <a href="https://linkdoapk.com/arquivo.apk" target="_blank">Baixar APK</a>
+                <a href="https://linkdoapk.com/arquivo2.apk" target="_blank">Baixar APK</a>
             </div>
 
-            <!-- Adicione mais itens de APK conforme necessário -->
+            <div class="apk-item">
+                <img src="https://via.placeholder.com/300" alt="Imagem do APK">
+                <h3>APK do Jogo C</h3>
+                <p>Baixe o APK para instalar o Jogo C no seu dispositivo Android.</p>
+                <a href="https://linkdoapk.com/arquivo3.apk" target="_blank">Baixar APK</a>
+            </div>
+
+            <div class="apk-item">
+                <img src="https://via.placeholder.com/300" alt="Imagem do APK">
+                <h3>APK do Aplicativo D</h3>
+                <p>Baixe o APK para instalar o Aplicativo D no seu dispositivo Android.</p>
+                <a href="https://linkdoapk.com/arquivo4.apk" target="_blank">Baixar APK</a>
+            </div>
+
+            <div class="apk-item">
+                <img src="https://via.placeholder.com/300" alt="Imagem do APK">
+                <h3>APK do Jogo E</h3>
+                <p>Baixe o APK para instalar o Jogo E no seu dispositivo Android.</p>
+                <a href="https://linkdoapk.com/arquivo5.apk" target="_blank">Baixar APK</a>
+            </div>
+
+            <div class="apk-item">
+                <img src="https://via.placeholder.com/300" alt="Imagem do APK">
+                <h3>APK do Aplicativo F</h3>
+                <p>Baixe o APK para instalar o Aplicativo F no seu dispositivo Android.</p>
+                <a href="https://linkdoapk.com/arquivo6.apk" target="_blank">Baixar APK</a>
+            </div>
+
+            <div class="apk-item">
+                <img src="https://via.placeholder.com/300" alt="Imagem do APK">
+                <h3>APK do Jogo G</h3>
+                <p>Baixe o APK para instalar o Jogo G no seu dispositivo Android.</p>
+                <a href="https://linkdoapk.com/arquivo7.apk" target="_blank">Baixar APK</a>
+            </div>
+
+            <div class="apk-item">
+                <img src="https://via.placeholder.com/300" alt="Imagem do APK">
+                <h3>APK do Aplicativo H</h3>
+                <p>Baixe o APK para instalar o Aplicativo H no seu dispositivo Android.</p>
+                <a href="https://linkdoapk.com/arquivo8.apk" target="_blank">Baixar APK</a>
+            </div>
+
+            <div class="apk-item">
+                <img src="https://via.placeholder.com/300" alt="Imagem do APK">
+                <h3>APK do Jogo I</h3>
+                <p>Baixe o APK para instalar o Jogo I no seu dispositivo Android.</p>
+                <a href="https://linkdoapk.com/arquivo9.apk" target="_blank">Baixar APK</a>
+            </div>
         </div>
     </div>
 
